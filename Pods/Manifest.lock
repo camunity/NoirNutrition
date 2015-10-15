@@ -1,0 +1,16 @@
+PODS:
+  - Bolts/Tasks (1.2.1)
+  - Parse (1.8.2):
+    - Bolts/Tasks (>= 1.2.1)
+  - TGCameraViewController (2.2.1)
+
+DEPENDENCIES:
+  - Parse
+  - TGCameraViewController
+
+SPEC CHECKSUMS:
+  Bolts: 7686a5cb204d1ac54cee26f12d9b7622db3f80d1
+  Parse: 188601c6cd91fae55906badd283b513104a3a8c9
+  TGCameraViewController: 06bc4b742f2524fbf60f92cade61df595e8b8678
+
+COCOAPODS: 0.36.4
